@@ -39,3 +39,5 @@ SEO is very important for our blog as well. There's a special plugin that gives 
 ![](../img/seo.png)
 
 Provide focus keyphrase (which should be discussed with the editor) and observe the results. Try to follow the given tips!
+
+[< Previous](03-collaborating-with-editor.md)
