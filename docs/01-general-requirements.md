@@ -8,3 +8,5 @@
 * The article should contain relevant code samples with all necessary explanations. If you demonstrate the concepts by building a sample application, its source code should be publicly available on GitHub, Bitbucket, CodePen, or a similar service. A working demo is appreciated as well.
 * The article is written exclusively for our blog. Reposts are not permitted without explicit approval from our side.
 * The article should be written by you or your team — we take plagiarism very seriously.
+
+[Next >](02-style-guide.md)
