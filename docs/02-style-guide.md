@@ -115,3 +115,5 @@ c = a - b # 3
 1. Variable `a` is assigned with a value of `1`.
 2. Variable `b` equals to the value of `a` multiplied by `2`.
 3. Variable `c` equals to `a` minus `b`.
+
+[< Previous](01-general-requirements.md) | [Next >](03-collaborating-with-editor.md)
