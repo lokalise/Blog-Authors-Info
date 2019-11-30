@@ -1,0 +1,22 @@
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+# Ignore application configuration
+.env
+.envrc
+
+# RubyMine config file
+.idea/
+
+# Atom config file
+.atom/
+
+# Mac OS X folder metadata
+.DS_Store
+
+*~
+.rvmrc
