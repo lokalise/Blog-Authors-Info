@@ -19,3 +19,5 @@ We are quite flexible with the deadlines, but once you have agreed a publication
 ## Reviewing
 
 After the article is finalized and proofread from your side, send it for review. The editor may request changes or provide some suggestions in order to ensure all articles meet a certain level of quality. The editor's job is not to mock or criticize you but to help you deliver quality content. If you do not agree with the editor, ask for clarifications and clearly state your point of view.
+
+[< Previous](02-style-guide.md) | [Next >](04-writing-article.md)
