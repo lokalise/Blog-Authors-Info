@@ -90,7 +90,7 @@ Bullets is a great tool but don't forget to format them properly:
 
 * Inline code [should be formatted with backticks](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html#Markdownsyntaxguide-Inlinecodecharacters).
 * All variables, functions, methods, classes, filenames, directory names, accepted values, returned values, and similar constructs should be formatted as inline code when mentioned in the text:
-  + "The function is `hello()`. It lives in the `Demo` class and return `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
+  + "The function is `hello()`. It lives in the `Demo` class and returns `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
  
 ### Code Blocks
 
