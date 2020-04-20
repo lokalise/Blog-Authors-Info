@@ -5,7 +5,7 @@
 * The article should cover a single topic with all the necessary explanations. The reader should be able to apply the received knowledge into practice. Do not write just for the sake of hitting a given character limit.
 * The article should be clearly structured.
 * :ballot_box_with_check: The article should be proofread before sending for review.
-* :memo: The article should contain relevant code samples with all necessary explanations. If you demonstrate the concepts by building a sample application, its source code should be publicly available on GitHub, Bitbucket, CodePen, or a similar service. A working demo is appreciated as well.
+* The article should contain relevant code samples with all necessary explanations. If you demonstrate the concepts by building a sample application, its source code should be publicly available on GitHub, Bitbucket, CodePen, or a similar service. A working demo is appreciated as well.
 * :copyright: The article is written exclusively for our blog. Reposts are not permitted without explicit approval from our side.
 * The article should be written by you or your team — we take plagiarism very seriously.
 
