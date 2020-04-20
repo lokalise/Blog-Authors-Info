@@ -74,6 +74,11 @@ Bullets is a great tool but don't forget to format them properly:
 * :framed_picture: If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
 * Provide `alt` text for your images.
 * :shipit: Do not use *smiles* and *emoticons*.
+* Do not use numbers to specify the count:
+  + :heavy_check_mark: We have added support for *two* languages...
+  + :heavy_check_mark: There are *ten* users...
+  + :x: We have added support for *2* languages...
+  + :x: There are *10* users...
 * Avoid using *complex contractions* like "could've":
   + :heavy_check_mark: We'll, isn't, hasn't, could have, would have
   + :x: Could've, should've, would've
@@ -85,8 +90,13 @@ Bullets is a great tool but don't forget to format them properly:
 
 * Inline code [should be formatted with backticks](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html#Markdownsyntaxguide-Inlinecodecharacters).
 * All variables, functions, methods, classes, filenames, directory names, accepted values, returned values, and similar constructs should be formatted as inline code when mentioned in the text:
+<<<<<<< HEAD
   + "The function is `hello()`. It lives in the `Demo` class and return `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
 
+=======
+  + "The function is `hello()`. It lives in the `Demo` class and returns `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
+
+>>>>>>> e65a2288dab250cd7eb6090a06f40637d2bcbeec
 ### Code Blocks
 
 * :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
