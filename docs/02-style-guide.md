@@ -90,13 +90,8 @@ Bullets is a great tool but don't forget to format them properly:
 
 * Inline code [should be formatted with backticks](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html#Markdownsyntaxguide-Inlinecodecharacters).
 * All variables, functions, methods, classes, filenames, directory names, accepted values, returned values, and similar constructs should be formatted as inline code when mentioned in the text:
-<<<<<<< HEAD
   + "The function is `hello()`. It lives in the `Demo` class and return `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
 
-=======
-  + "The function is `hello()`. It lives in the `Demo` class and returns `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
-
->>>>>>> e65a2288dab250cd7eb6090a06f40637d2bcbeec
 ### Code Blocks
 
 * :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
