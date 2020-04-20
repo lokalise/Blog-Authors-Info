@@ -1,6 +1,6 @@
 # Getting Paid
 
-:dollar: The most pleasant part is getting paid for the hard work, right? So, here are some simple steps to complete in order to receive your $$:
+The most pleasant part is getting paid for the hard work, right? So, here are some simple steps to complete in order to receive your :dollar::
 
 * :ballot_box_with_check: Make sure your article is reviewed and there are no issues that require corrections from your side. Usually, the editor will approve the draft and notify you. Please, do not send invoices for unfinished articles.
 * :hourglass_flowing_sand: Ideally, send an invoice right after your post is reviewed. We reserve a right not process invoices for the articles that were written more than 6 months ago.
