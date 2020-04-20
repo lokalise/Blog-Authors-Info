@@ -3,14 +3,14 @@
 ## Language
 
 * :us: Your article should be written in US English.
-* Do not use overly complex words and sentences — our readers have different levels of language proficiency. Divide long sentences into shorter ones. Everyone (with at least a basic understanding of English) should be able to get a grasp of your explanations.
+* :speech_balloon: Do not use overly complex words and sentences — our readers have different levels of language proficiency. Divide long sentences into shorter ones. Everyone (with at least a basic understanding of English) should be able to get a grasp of your explanations.
 
 ## Tone and Narration
 
 * The tone of the article should be friendly. You are not a strict mentor but rather a person who helps his/her colleagues to better understand a given topic. Adding a couple of appropriate jokes is okay too. On the other hand, don't get *too* informal:
   + :heavy_check_mark: The explanations should be confident, precise, clear, comprehensive, and fun.
   + :x: The explanations should not be overly pedantic, complicated, or patronising.
-* In your explanations use words like "we" and "us" when appropriate (not "I" and "me"). You are solving the given task together with the reader:
+* :family: In your explanations use words like "we" and "us" when appropriate (not "I" and "me"). You are solving the given task together with the reader:
   + :heavy_check_mark: Next *we* are going to install the following software...
   + :x: Next *I* am going to install the following software...
 * Address the reader with the word "you":
@@ -22,11 +22,11 @@
 * Do not use too many passive voice:
   + :heavy_check_mark: You should install the following software...
   + :x: The following software should be installed...
-* Try to use gender-neutral phrases.
- 
+* :woman: :man: Try to use gender-neutral phrases.
+
 ## Grammar and Spelling
 
-* Do not forget to proofread the text (though the editor will double-check everything and make edits as necessary). You may use [grammarly.com](https://www.grammarly.com/) or a similar tool.
+* :ballot_box_with_check: Do not forget to proofread the text (though the editor will double-check everything and make edits as necessary). You may use [grammarly.com](https://www.grammarly.com/) or a similar tool.
 * Capitalize company names according to the company’s style.
 * Use [Oxford comma](https://www.grammarly.com/blog/what-is-the-oxford-comma-and-why-do-people-care-so-much-about-it/):
   + :heavy_check_mark: Lock, stock, and two smoking barrels
@@ -65,15 +65,15 @@ Bullets is a great tool but don't forget to format them properly:
 * :link: Provide links to relevant resources (documentation, specifications) when explaining new terms and concepts.
 * Giving links to other Lokalise articles is very much appreciated.
 * On the other hand, do not overuse external links: for example, do not provide references for common knowledge. The provided links should be relevant to the main topic of the article.
-* Never ever add sponsored or promotional links without agreeing with the editor. Such links will be removed.
+* :heavy_exclamation_mark: Never ever add sponsored or promotional links without agreeing with the editor. Such links will be removed.
 
 ### Other Tips
 
 * *Acronyms* should be explained unless they are well-known (like HTML or PNG).
-* *Citations* should include the original sources.
-* If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
+* :speech_balloon: *Citations* should include the original sources.
+* :framed_picture: If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
 * Provide `alt` text for your images.
-* Do not use *smiles* and *emoticons*.
+* :shipit: Do not use *smiles* and *emoticons*.
 * Avoid using *complex contractions* like "could've":
   + :heavy_check_mark: We'll, isn't, hasn't, could have, would have
   + :x: Could've, should've, would've
@@ -86,22 +86,24 @@ Bullets is a great tool but don't forget to format them properly:
 * Inline code [should be formatted with backticks](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html#Markdownsyntaxguide-Inlinecodecharacters).
 * All variables, functions, methods, classes, filenames, directory names, accepted values, returned values, and similar constructs should be formatted as inline code when mentioned in the text:
   + "The function is `hello()`. It lives in the `Demo` class and return `"Hello"` as a result. The `Demo` class is defined in the `lib/demo` file."
- 
+
 ### Code Blocks
 
-* Large code blocks should be presented with GitHub Gist, CodePen, or similar services. To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
-  + Create a new [Gist](https://gist.github.com/)
-  + Copy URL to your Gist, for example [https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb](https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb)
-  + Paste URL to the text editor in our WordPress
-  + The URL should be automatically converted to a code preview
+* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
+  + Create a new [Gist](https://gist.github.com/).
+  + Copy URL to your Gist, for example [https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb](https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb).
+  + Paste URL to the text editor in our WordPress.
+  + The URL should be automatically converted to a code preview.
 * We also have a [Gist Press](https://github.com/bradyvercher/gistpress) plugin installed which allows to embed a specific file from the given Gist. To use it:
-  + Insert `[gist id="9b1307f153f4abe352a4"]` shortcode into the editor where `id` is the ID of your Gist (provided in the Gist URL)
-  + In order to embed a specific file, say `[gist id="9b1307f153f4abe352a4" file="media-control-snippet.php"]`
-  + More information can be found in [the official documentation](https://github.com/bradyvercher/gistpress#shortcode)
+  + Insert `[gist id="9b1307f153f4abe352a4"]` shortcode into the editor where `id` is the ID of your Gist (provided in the Gist URL).
+  + In order to embed a specific file, say `[gist id="9b1307f153f4abe352a4" file="media-control-snippet.php"]`.
+  + More information can be found in [the official documentation](https://github.com/bradyvercher/gistpress#shortcode).
+* Also, you may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool, however, has a limited set of supported languages, and also works improperly with some special characters. Therefore, for more complex cases stick to Gist or other services.
+![](../img/code_insert.png)
 * Indent and format your code properly making it easier to read.
 * Make sure the code does not contain any errors or typos.
-* Try not to use obscure techniques (aka "black magic"). If you must, explain this technique to the reader.
-* If you are building a complex feature try to move step-by-step gradually increasing complexity. Do not throw a huge code sample at the reader trying to explain everything in one go.
+* :tophat: :rabbit: Try not to use obscure techniques (aka "black magic"). If you must, explain this technique to the reader.
+* :scream_cat: If you are building a complex feature try to move step-by-step gradually increasing complexity. Do not throw a huge code sample at the reader trying to explain everything in one go.
 * If the code sample has multiple important lines, mark them in the code with the comments and then explain each line separately. For example:
 
 ```ruby

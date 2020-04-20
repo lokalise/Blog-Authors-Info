@@ -2,7 +2,7 @@
 
 ## Creating a New Article
 
-The articles are written in our WordPress CMS. You will be provided with all the necessary login information by your editor.
+:black_nib: The articles are written in our WordPress CMS. You will be provided with all the necessary login information by your editor.
 
 After logging in, click *Posts* > *Add New* in the main menu:
 
@@ -20,7 +20,7 @@ If you prefer to write in Markdown format using your favourite editor — that's
 
 ## Readability
 
-Our WordPress has a special plugin installed that will give you some tips regarding article readability. It can be found right under the text editor:
+:book: Our WordPress has a special plugin installed that will give you some tips regarding article readability. It can be found right under the text editor:
 
 ![](../img/readability.png)
 
@@ -34,10 +34,10 @@ Try to follow the given tips. Of course, it is not mandatory to 100% fulfill all
 
 ## SEO
 
-SEO is very important for our blog as well. There's a special plugin that gives basic SEO recommendations. It can be found under the text editor:
+:mag: SEO is very important for our blog as well. There's a special plugin that gives basic SEO recommendations. It can be found under the text editor:
 
 ![](../img/seo.png)
 
 Provide focus keyphrase (which should be discussed with the editor) and observe the results. Try to follow the given tips!
 
-[< Previous](03-collaborating-with-editor.md)
+[< Previous](03-collaborating-with-editor.md) | [Next >](05-getting-paid.md)
