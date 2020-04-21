@@ -94,7 +94,7 @@ Bullets is a great tool but don't forget to format them properly:
 
 ### Code Blocks
 
-* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
+* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. We also have a Highlighter plugin for WordPress installed which may work (see below). To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
   + Create a new [Gist](https://gist.github.com/).
   + Copy URL to your Gist, for example [https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb](https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb).
   + Paste URL to the text editor in our WordPress.
@@ -103,8 +103,9 @@ Bullets is a great tool but don't forget to format them properly:
   + Insert `[gist id="9b1307f153f4abe352a4"]` shortcode into the editor where `id` is the ID of your Gist (provided in the Gist URL).
   + In order to embed a specific file, say `[gist id="9b1307f153f4abe352a4" file="media-control-snippet.php"]`.
   + More information can be found in [the official documentation](https://github.com/bradyvercher/gistpress#shortcode).
-* Also, you may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool, however, has a limited set of supported languages, and also works improperly with some special characters. Therefore, for more complex cases stick to Gist or other services.
+* You may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool has a limited set of supported languages but in general works fine.
 ![](../img/code_insert.png)
+  + Highlighter allows to point out specific lines. To achieve that, press on the settings icon after inserting your code and edit the "Point out lines" option ![](../img/code_insert.png)
 * Indent and format your code properly making it easier to read.
 * Make sure the code does not contain any errors or typos.
 * :tophat: :rabbit: Try not to use obscure techniques (aka "black magic"). If you must, explain this technique to the reader.
