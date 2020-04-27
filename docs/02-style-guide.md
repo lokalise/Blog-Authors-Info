@@ -94,7 +94,7 @@ Bullets is a great tool but don't forget to format them properly:
 
 ### Code Blocks
 
-* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. We also have a Highlighter plugin for WordPress installed which may work (see below). To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
+* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. We also have a Highlighter plugin for WordPress installed (see below). To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
   + Create a new [Gist](https://gist.github.com/).
   + Copy URL to your Gist, for example [https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb](https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb).
   + Paste URL to the text editor in our WordPress.
