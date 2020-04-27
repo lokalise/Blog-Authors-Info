@@ -103,7 +103,7 @@ Bullets is a great tool but don't forget to format them properly:
   + Insert `[gist id="9b1307f153f4abe352a4"]` shortcode into the editor where `id` is the ID of your Gist (provided in the Gist URL).
   + In order to embed a specific file, say `[gist id="9b1307f153f4abe352a4" file="media-control-snippet.php"]`.
   + More information can be found in [the official documentation](https://github.com/bradyvercher/gistpress#shortcode).
-* You may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool has a limited set of supported languages but in general works fine.
+* You may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool has a limited set of supported languages but in general it works fine.
 ![](../img/code_insert.png)
   + Highlighter allows to point out specific lines. To achieve that, press on the settings icon after inserting your code and edit the "Point out lines" option
 ![](../img/code_settings.png)
