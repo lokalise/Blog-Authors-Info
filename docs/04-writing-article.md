@@ -18,7 +18,31 @@ If you prefer to write in Markdown format using your favourite editor — that's
 
 *Do not send plain Markdown files to your editor — import them into WordPress!*
 
-## Readability
+## Post Editor
+
+### Adding Table of Contents
+
+To add a table of contents (TOC), simply place the following snippet:
+
+```
+[toc]
+```
+
+For example:
+
+```
+So, let's get our hands dirty and proceed to the main part of the post!
+
+[toc]
+
+As the first step...
+```
+
+### Adding Videos
+
+If you need to add a video, press "YouTube" button right above the post editor, and follow the wizard's instructions.
+
+### Readability
 
 :book: Our WordPress has a special plugin installed that will give you some tips regarding article readability. It can be found right under the text editor:
 
@@ -32,7 +56,7 @@ Try to follow the given tips. Of course, it is not mandatory to 100% fulfill all
 * Divide text into sections and subsections.
 * Do not write too long paragraphs.
 
-## SEO
+### SEO
 
 :mag: SEO is very important for our blog as well. There's a special plugin that gives basic SEO recommendations. It can be found under the text editor:
 
