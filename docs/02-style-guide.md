@@ -44,7 +44,7 @@
   + Conclusion
 * The title of the article will be a heading level 1 (`h1`) which means that sections of the article should be `h2`-`h6`.
 * Subtitles should not be longer than 5-6 words.
-* The title as well as subtitles should be properly capitalized. You may use [capitalizemytitle.com](https://capitalizemytitle.com/) or a similar tool.
+* The title as well as subtitles should be properly capitalized. To achieve that, use [capitalizemytitle.com](https://capitalizemytitle.com/) tool: open MLA tab and choose "sentence case" option. Then simply paste your title in the text box, and it will be capitalized for you. 
 
 ### Bullets
 
