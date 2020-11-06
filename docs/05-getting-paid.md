@@ -9,7 +9,7 @@ The most pleasant part is getting paid for the hard work, right? So, here are so
   + Your residence address.
   + Your e-mail.
   + Invoice number. Start with `1` and increment this number with each subsequent invoice.
-  + "Billed to" — "Lokalise, Inc. EIN 61-1798824. 2035 Sunset Lake Rd, Suite B-2. Newark, Delaware DE 19702".
+  + "Billed to" — "Lokalise, Inc. EIN 61-1798824. 3500 South DuPont Highway, Suite BZ-101, Dover, DE 19901, USA".
   + Titles of the articles that you are invoicing for.
   + Price per each article.
   + Grand total.
