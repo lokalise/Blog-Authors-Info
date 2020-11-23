@@ -42,6 +42,12 @@ As the first step...
 
 If you need to add a video, press "YouTube" button right above the post editor, and follow the wizard's instructions.
 
+### Adding Images
+
+To add an image into your post, press "Add Media" button above the post editor. You'll then be able to choose an uploaded image from the library, or upload a new one from your PC.
+
+![](../img/add_image.png)
+
 ### Readability
 
 :book: Our WordPress has a special plugin installed that will give you some tips regarding article readability. It can be found right under the text editor:
