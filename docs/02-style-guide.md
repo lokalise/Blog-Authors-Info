@@ -4,20 +4,20 @@
 
 * :us: Your article should be written in US English.
 * :speech_balloon: Do not use overly complex words and sentences. We are an international company, with an international audience, all with varying levels of English mastery. We respect that and write clearly. Simple writing can be powerful and beautiful. Divide long sentences into shorter ones. Everyone (with at least a basic understanding of English) should be able to get a grasp of your explanations.
-* Our audience is busy. Long introductions may be good for books or other creative writing, but not for our technical audience. That doesn’t mean that we only write short things. Long articles/posts/books could be great, but long introductions and long transitions between paragraphs are not. 
+* :dart: Our audience is busy. Long introductions may be good for books or other creative writing, but not for our technical audience. That doesn’t mean that we only write short things. Long articles/posts/books could be great, but long introductions and long transitions between paragraphs are not. 
 
 ## Tone and Narration
 
-* The tone of the article should be friendly. You are not a strict mentor but rather a person who helps his/her colleagues to better understand a given topic. Adding a couple of appropriate jokes is okay too. On the other hand, don't get *too* informal:
+* :blush: The tone of the article should be friendly. You are not a strict mentor but rather a person who helps his/her colleagues to better understand a given topic. Adding a couple of appropriate jokes is okay too. On the other hand, don't get *too* informal:
   + :heavy_check_mark: The explanations should be confident, precise, clear, comprehensive, and fun.
   + :x: The explanations should not be overly pedantic, complicated, or patronising.
 * :family: In your explanations use words like "we" and "us" when appropriate (not "I" and "me"). You are solving the given task together with the reader:
   + :heavy_check_mark: Next *we* are going to install the following software...
   + :x: Next *I* am going to install the following software...
-* Address the reader with the word "you":
+* :point_right: Address the reader with the word "you":
   + :heavy_check_mark: I hope *you* found this article helpful and interesting!
   + :x: I hope *readers* found this article helpful and interesting!
-* Explain complex terms. Provide links to relevant materials if needed.
+* :link: Explain complex terms. Provide links to relevant materials if needed.
 * Use transition words: "first", "next", "lastly", "therefore", "so", and other.
 * :no_mouth: Do not use slang and other inappropriate words (like swearing). "That dog won’t hunt" means "that’s not going to work" and unless you are in the American South, you probably won’t know that. Let’s avoid turns of phrase that are regional specific.
 * Do not attack any groups of people or start holy wars ("Linux is better/worse than Windows").
@@ -26,7 +26,7 @@
   + :x: The following software should be installed...
 * Use -ing sparingly. "I was thinking" is not as strong and active as "I think". Remove -ing wherever possible.
 * :woman: :man: Try to use gender-neutral phrases. Unless we are talking about a specific person and we know their gender preferences, that is.
-* We don’t use our marketing channels to spread rumors or falsehoods about our competitors. We don’t celebrate publicly when they fail. We do compete and we compete hard. We strive to win business and convert prospects but we do so with respect and within the bounds of the law.
+* :no_good: We don’t use our marketing channels to spread rumors or falsehoods about our competitors. We don’t celebrate publicly when they fail. We do compete and we compete hard. We strive to win business and convert prospects but we do so with respect and within the bounds of the law.
 
 ## Grammar and Spelling
 
@@ -67,7 +67,7 @@ Bullets is a great tool but don't forget to format them properly:
   + :heavy_check_mark: Documentation for this method [can be found on the official website](http://example.com/)
   + :x: [Click here](http://example.com/) to find documentation for this method
 * :link: Provide links to relevant resources (documentation, specifications) when explaining new terms and concepts.
-* Giving links to other Lokalise articles is very much appreciated.
+* :mega: Giving links to other Lokalise articles is very much appreciated.
 * On the other hand, do not overuse external links: for example, do not provide references for common knowledge. The provided links should be relevant to the main topic of the article.
 * :heavy_exclamation_mark: Never ever add sponsored or promotional links without agreeing with the editor. Such links will be removed.
 
@@ -78,7 +78,7 @@ Bullets is a great tool but don't forget to format them properly:
 * :framed_picture: If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
 * Provide `alt` text for your images.
 * :shipit: Do not use *smiles* and *emoticons*. There is a difference between how we communicate with friends and how we communicate with our prospects and customers. Generally, we don’t use emojis on our website or blog. We use them at times in social posts, emails and Intercom chats. Memes are also something we rarely share outside of Lokalise. If we use them we educate ourselves on the ones that have negative meaning.
-*  Humor is hard to do in such a way that it scales internationally. Like emojis it can be used to accentuate and draw attention but should not be overused. Being serious does not mean we are mean, sharp-edged, unpleasant or distasteful. It does mean we are direct.
+* :confused: Humor is hard to do in such a way that it scales internationally. Like emojis it can be used to accentuate and draw attention but should not be overused. Being serious does not mean we are mean, sharp-edged, unpleasant or distasteful. It does mean we are direct.
 * Do not use numbers to specify the count:
   + :heavy_check_mark: We have added support for *two* languages...
   + :heavy_check_mark: There are *ten* users...
@@ -99,15 +99,7 @@ Bullets is a great tool but don't forget to format them properly:
 
 ### Code Blocks
 
-* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. We also have a Highlighter plugin for WordPress installed (see below). To insert GitHub Gist (also demonstrated in [this small video](https://drive.google.com/open?id=1hwnDVy8gYpFDUZnkprOr3_jW7R4sHNYg)):
-  + Create a new [Gist](https://gist.github.com/).
-  + Copy URL to your Gist, for example [https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb](https://gist.github.com/bodrovis/88b0c01eaf518917db80925b8db8cafb).
-  + Paste URL to the text editor in our WordPress.
-  + The URL should be automatically converted to a code preview.
-* We also have a [Gist Press](https://github.com/bradyvercher/gistpress) plugin installed which allows to embed a specific file from the given Gist. To use it:
-  + Insert `[gist id="9b1307f153f4abe352a4"]` shortcode into the editor where `id` is the ID of your Gist (provided in the Gist URL).
-  + In order to embed a specific file, say `[gist id="9b1307f153f4abe352a4" file="media-control-snippet.php"]`.
-  + More information can be found in [the official documentation](https://github.com/bradyvercher/gistpress#shortcode).
+* :page_facing_up: Large code blocks should be presented with GitHub Gist, CodePen, or similar services. We also have a Highlighter plugin for WordPress installed (see below). 
 * You may utilize the built-in highlighter tool by pressing the Code Insert icon. This tool has a limited set of supported languages but in general it works fine.
 ![](../img/code_insert.png)
   + Highlighter allows to point out specific lines. To achieve that, press on the settings icon after inserting your code and edit the "Point out lines" option
