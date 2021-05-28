@@ -3,7 +3,8 @@
 ## Language
 
 * :us: Your article should be written in US English.
-* :speech_balloon: Do not use overly complex words and sentences — our readers have different levels of language proficiency. Divide long sentences into shorter ones. Everyone (with at least a basic understanding of English) should be able to get a grasp of your explanations.
+* :speech_balloon: Do not use overly complex words and sentences. We are an international company, with an international audience, all with varying levels of English mastery. We respect that and write clearly. Simple writing can be powerful and beautiful. Divide long sentences into shorter ones. Everyone (with at least a basic understanding of English) should be able to get a grasp of your explanations.
+* Our audience is busy. Long introductions may be good for books or other creative writing, but not for our technical audience. That doesn’t mean that we only write short things. Long articles/posts/books could be great, but long introductions and long transitions between paragraphs are not. 
 
 ## Tone and Narration
 
@@ -18,11 +19,14 @@
   + :x: I hope *readers* found this article helpful and interesting!
 * Explain complex terms. Provide links to relevant materials if needed.
 * Use transition words: "first", "next", "lastly", "therefore", "so", and other.
-* :no_mouth: Do not use slang and other inappropriate words (like swearing). Do not attack any groups of people or start holy wars ("Linux is better/worse than Windows").
-* Do not use too many passive voice:
+* :no_mouth: Do not use slang and other inappropriate words (like swearing). "That dog won’t hunt" means "that’s not going to work" and unless you are in the American South, you probably won’t know that. Let’s avoid turns of phrase that are regional specific.
+* Do not attack any groups of people or start holy wars ("Linux is better/worse than Windows").
+* Do not use too many passive voice. In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it. Words like "was" and "by" may indicate that you’re writing in passive voice.
   + :heavy_check_mark: You should install the following software...
   + :x: The following software should be installed...
-* :woman: :man: Try to use gender-neutral phrases.
+* Use -ing sparingly. "I was thinking" is not as strong and active as "I think". Remove -ing wherever possible.
+* :woman: :man: Try to use gender-neutral phrases. Unless we are talking about a specific person and we know their gender preferences, that is.
+* We don’t use our marketing channels to spread rumors or falsehoods about our competitors. We don’t celebrate publicly when they fail. We do compete and we compete hard. We strive to win business and convert prospects but we do so with respect and within the bounds of the law.
 
 ## Grammar and Spelling
 
@@ -73,7 +77,8 @@ Bullets is a great tool but don't forget to format them properly:
 * :speech_balloon: *Citations* should include the original sources.
 * :framed_picture: If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
 * Provide `alt` text for your images.
-* :shipit: Do not use *smiles* and *emoticons*. Humor is hard to do in such a way that it scales internationally. Like emojis it can be used to accentuate and draw attention but should not be overused. Being serious does not mean we are mean, sharp-edged, unpleasant or distasteful. It does mean we are direct.
+* :shipit: Do not use *smiles* and *emoticons*. There is a difference between how we communicate with friends and how we communicate with our prospects and customers. Generally, we don’t use emojis on our website or blog. We use them at times in social posts, emails and Intercom chats. Memes are also something we rarely share outside of Lokalise. If we use them we educate ourselves on the ones that have negative meaning.
+*  Humor is hard to do in such a way that it scales internationally. Like emojis it can be used to accentuate and draw attention but should not be overused. Being serious does not mean we are mean, sharp-edged, unpleasant or distasteful. It does mean we are direct.
 * Do not use numbers to specify the count:
   + :heavy_check_mark: We have added support for *two* languages...
   + :heavy_check_mark: There are *ten* users...
