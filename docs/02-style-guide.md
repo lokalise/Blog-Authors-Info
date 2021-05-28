@@ -73,7 +73,7 @@ Bullets is a great tool but don't forget to format them properly:
 * :speech_balloon: *Citations* should include the original sources.
 * :framed_picture: If you are using *images* from other sources, make sure you have permission to do so. We encourage authors to use original images.
 * Provide `alt` text for your images.
-* :shipit: Do not use *smiles* and *emoticons*.
+* :shipit: Do not use *smiles* and *emoticons*. Humor is hard to do in such a way that it scales internationally. Like emojis it can be used to accentuate and draw attention but should not be overused. Being serious does not mean we are mean, sharp-edged, unpleasant or distasteful. It does mean we are direct.
 * Do not use numbers to specify the count:
   + :heavy_check_mark: We have added support for *two* languages...
   + :heavy_check_mark: There are *ten* users...
