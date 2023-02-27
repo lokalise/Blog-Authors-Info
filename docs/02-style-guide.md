@@ -18,13 +18,13 @@
   + :heavy_check_mark: I hope *you* found this article helpful and interesting!
   + :x: I hope *readers* found this article helpful and interesting!
 * :link: Explain complex terms. Provide links to relevant materials if needed.
-* Use transition words: "first", "next", "lastly", "therefore", "so", and other.
+* :arrow_right_hook: Use transition words: "first", "next", "lastly", "therefore", "so", and other.
 * :no_mouth: Do not use slang and other inappropriate words (like swearing). "That dog won’t hunt" means "that’s not going to work" and unless you are in the American South, you probably won’t know that. Let’s avoid turns of phrase that are regional specific.
-* Do not attack any groups of people or start holy wars ("Linux is better/worse than Windows").
-* Do not use too many passive voice. In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it. Words like "was" and "by" may indicate that you’re writing in passive voice.
+* :peace_symbol: Do not attack any groups of people or start holy wars ("Linux is better/worse than Windows").
+* :speech_balloon: Do not use too many passive voice. In active voice, the subject of the sentence does the action. In passive voice, the subject of the sentence has the action done to it. Words like "was" and "by" may indicate that you’re writing in passive voice.
   + :heavy_check_mark: You should install the following software...
   + :x: The following software should be installed...
-* Use -ing sparingly. "I was thinking" is not as strong and active as "I think". Remove -ing wherever possible.
+* :black_nib: Use -ing sparingly. "I was thinking" is not as strong and active as "I think". Remove -ing wherever possible.
 * :woman: :man: Try to use gender-neutral phrases. Unless we are talking about a specific person and we know their gender preferences, that is.
 * :no_good: We don’t use our marketing channels to spread rumors or falsehoods about our competitors. We don’t celebrate publicly when they fail. We do compete and we compete hard. We strive to win business and convert prospects but we do so with respect and within the bounds of the law.
 
