@@ -13,7 +13,7 @@ The most pleasant part is getting paid for the hard work, right? So, here are so
   + Titles of the articles that you are invoicing for.
   + Price per each article.
   + Grand total.
-  + :money_with_wings: Payment method. The preferred payment method is PayPal (don't forget to specify your PayPay e-mail). You may also request payment via SWIFT but this needs to be separately negotiated. Keep in mind that with SWIFT additional taxes may apply.
+  + :money_with_wings: Payment method. The preferred payment method is PayPal (don't forget to specify your PayPal e-mail). You may also request payment via SWIFT but this needs to be separately negotiated. Keep in mind that with SWIFT additional taxes may apply.
 * :incoming_envelope: Send the invoice to invoices@lokalise.com.
 * :moneybag: Wait for a couple of days (please note that we do not process invoices on weekends and public holidays) and check your account!
 
